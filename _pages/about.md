@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! My name is Shikuan Xie. I am a third-year Master's student at [Visual, Sensing and Intelligent System Laboratory](http://www.vsislab.com/), School of Control Science and Engineering of Shandong University(SDU), advised by Prof. Wei Zhang. 
 My research interest mainly lies in robotics and deep learning.
-Currently I'm working on robot perception (especially based on LiDAR) and navigation.
+I'm currently working on robot perception (especially based on LiDAR) and navigation.
 
 # Education
 
