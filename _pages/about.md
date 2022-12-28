@@ -28,4 +28,4 @@ Please refer to [Research](https://brucexsk.github.io/research) for the details 
 
 # Projects Experience
 
-Please refer to [Research](https://brucexsk.github.io/projects) for projects I have worked on during my graduate studies.
+Please refer to [Projects](https://brucexsk.github.io/projects) for projects I have worked on during my graduate studies.
