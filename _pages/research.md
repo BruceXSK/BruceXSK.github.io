@@ -21,3 +21,4 @@ Some typical operating scenarios of UGV and the visualization of CAD are shown b
 
 ## Real-world deployment
 
+We deployed the CAD on a real UGV and tested in real environments, please refer to the [youtube video](https://youtu.be/pHm4dq6Neyw) for the real-world performance of our method.
