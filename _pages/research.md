@@ -7,6 +7,8 @@ author_profile: true
 
 # Circular Accessible Depth: A Robust Traversability Representation for UGV Navigation
 
+**Shikuan Xie**, Ran Song, Yuenan Zhao, Xueqin Huang, Yibin Li and Wei Zhang.
+
 *The paper is submitted to IEEE Transactions on Robotics and is under review now. Pre-printed version available at .*
 
 ## Introduction
