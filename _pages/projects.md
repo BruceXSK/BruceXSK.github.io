@@ -24,7 +24,7 @@ author_profile: true
 - However, due to the influence of tree growth on point cloud maps, we turn to fusing the odometry, IMU and GPS by Kalman filter for localization in the trees.
 - The navigation framework was deployed on Nvidia TX2 with ROS.
 
-## Object detection-based people counting with edge computing (2022.9-2021.5)
+## Object detection-based people counting with edge computing (2020.9-2021.5)
 
 <img src="/images/project_count.png" height="200x">
 
