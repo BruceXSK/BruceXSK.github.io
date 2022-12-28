@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xie Shikuan"
+title                    : "Shikuan Xie"
 title_separator          : "-"
-name                     : &name "Xie Shikuan"
+name                     : &name "Shikuan Xie"
 description              : &description "personal description"
 url                      : https://brucexsk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xie Shikuan"
+  name             : "Shikuan Xie"
   avatar           : "profile_picture.jpg"
   bio              : "M.Sc at Shandong University"
   location         : "Jinan, China"
