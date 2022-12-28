@@ -20,11 +20,18 @@ author_profile: true
 <img src="/images/project_agriculture.png" height="200x">
 
 - Time: 2021-present
-- The [https://brucexsk.github.io/research/](Circular Accessible Depth) is depolyed as the perception module to predict the traversability.
+- The [Circular Accessible Depth](https://brucexsk.github.io/research/) is depolyed as the perception module to predict the traversability.
 - The UGV need to travel between the warehouse and the field. We built a point cloud map for indoor localization, which uses [fast_lio_localization
 ](https://github.com/BruceXSK/fast_lio_localization), an open-source project that I maintained.
 - However, due to the influence of tree growth on point cloud maps, we turn to fusing the odometry, IMU and GPS by Kalman filter for localization in the trees.
+- The navigation framework was deployed on Nvidia TX2 with ROS.
 
 ## Object detection-based people counting with edge computing
 
 <img src="/images/project_count.png" height="200x">
+
+- Time: 2020-2021
+- We trained YOLOv5 to detect the heads people.
+- The heads are assigned different IDs by tracking algorithm like SORT. 
+- Then, the number of people who pass the scribed line could be counted by calculating the geometric relationship between the trajectories of heads and the line.
+- The YOLOv5 model accelerated by TensorRT and the tracking code are deployed on TX2.
