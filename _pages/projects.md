@@ -19,8 +19,7 @@ author_profile: true
 <img src="/images/project_agriculture.png" height="200x">
 
 - The [Circular Accessible Depth](https://brucexsk.github.io/research/) is depolyed as the perception module to predict the traversability.
-- The UGV need to travel between the warehouse and the field. We built a point cloud map for indoor localization, which uses [fast_lio_localization
-](https://github.com/BruceXSK/fast_lio_localization), an open-source project that I maintained.
+- The UGV need to travel between the warehouse and the field. We built a point cloud map for indoor localization, which uses [fast_lio_localization](https://github.com/BruceXSK/fast_lio_localization), an open-source project that I maintained.
 - However, due to the influence of tree growth on point cloud maps, we turn to fusing the odometry, IMU and GPS by Kalman filter for localization in the trees.
 - The navigation framework was deployed on Nvidia TX2 with ROS.
 
