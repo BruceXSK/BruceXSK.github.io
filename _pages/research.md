@@ -33,4 +33,6 @@ Since single-frame point cloud lacks sufficient information for the prediction o
 
 ## Real-world deployment
 
-We deployed the CAD on a real UGV and tested in real environments, please refer to the [youtube video](https://youtu.be/pHm4dq6Neyw) for the real-world performance of our method.
+We deployed the CAD on a real UGV and tested in real environments, please refer to the youtube video for the real-world performance of our method.
+
+[![video](/images/research_video.png)](https://youtu.be/pHm4dq6Neyw)
