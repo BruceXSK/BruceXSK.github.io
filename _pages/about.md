@@ -29,3 +29,17 @@ Please refer to [Research](https://brucexsk.github.io/research) for the details 
 # Projects Experience
 
 Please refer to [Projects](https://brucexsk.github.io/projects) for projects I have worked on during my graduate studies.
+
+# Honor & Award
+
+- Special Freshman Scholarship  
+  2020 - Issued by Shandong University
+
+- Outstanding Individuals in Innovation of Shandong University  
+  2019 - Issued by Shandong University
+  
+- The National University Students Intelligent Car Race  
+  2019 - National Second Prize
+
+- The Third Prize Scholarship  
+  2019, 2020, 2021 - Issued by Shandong University
