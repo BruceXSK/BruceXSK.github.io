@@ -45,7 +45,7 @@ Since most of the existing point cloud annotation tools are oriented to point cl
 I develop a CAD annotation tool with PyQt and OpenGL which applies ArcBall to project 3D space to 2D image. 
 The annotation tool is shown below.
 
-![Labeler](/images/research_annotation.jpg)
+![Labeler](/images/research_annotation.png)
 
 Users can draw CAD ground truth based on the point cloud shown in the annotation tool.
 This data annotation tool is easy to use and convenient to label some real-world data quickly for training. Thus our method can be implemented in real-world applications easily.
