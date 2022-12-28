@@ -12,10 +12,10 @@ My name is Xie Shikuan. I am currently a master student at School of Control Sci
 
 # Education
 
-- 2020.09-Present Shandong University
-  M.Sc in Control Science and Engineering
+- 2020.09-Present Shandong University  
+  M.Sc in Control Science and Engineering  
   Average Mark: 90.7/100
 
-- 2016.09-2020.06 Shandong University
-  B.E. in Automation
-  Average Mark: 84/100
+- 2016.09-2020.06 Shandong University  
+  B.E. in Automation  
+  Average Mark: 85.18/100
