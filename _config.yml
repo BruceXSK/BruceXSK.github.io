@@ -81,15 +81,15 @@ analytics:
 # Site Author
 author:
   name             : "Xie Shikuan"
-  avatar           : "profile.png"
+  avatar           : "profile_picture.img"
   bio              : "MS. at Shandong University"
   location         : "Jinan, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "brucexie@mail.sdu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "brucexsk.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
