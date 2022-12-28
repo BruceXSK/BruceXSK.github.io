@@ -50,4 +50,5 @@ Please refer to [Projects](https://brucexsk.github.io/projects) for projects I h
 Programming Languages: C/C++, Python  
 Developer Tools: Git, Docker, CMake  
 Framework/Libraries: Linux, ROS, Numpy, PyTorch, TensorRT, Opencv, PCL  
-Devices: Nvidia TX2, Xavier  
+Robot Simulator: Nvidia ISSAC SIM, Webots, Gazebo
+Devices: Nvidia TX2, Xavier 
