@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Xie Shikuan. I am currently a master student at School of Control Science and Engineering of Shandong University(SDU), where I obtained my bachelor's degree too. My research interest mainly lies in robotics, robot perception and deep learning.
+Hello! My name is Xie Shikuan. I am currently a third-year Master's student at [Visual, Sensing and Intelligent System Laboratory](http://www.vsislab.com/), School of Control Science and Engineering of Shandong University(SDU), advised by Prof. Wei Zhang. 
+My research interest mainly lies in robotics, robot perception and deep learning.
 
 # Education
 
@@ -43,3 +44,10 @@ Please refer to [Projects](https://brucexsk.github.io/projects) for projects I h
 
 - The Third Prize Scholarship  
   2019, 2020, 2021 - Issued by Shandong University
+  
+# Technical Skills
+
+Programming Languages: C/C++, Python
+Developer Tools: Git, Docker, CMake
+Framework/Libraries: Linux, ROS, Numpy, PyTorch, TensorRT, Opencv, PCL
+Devices: Nvidia TX2, Xavier
