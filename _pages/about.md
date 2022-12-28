@@ -25,7 +25,7 @@ My research interest mainly lies in robotics, robot perception and deep learning
 
 [1] Shikuan Xie, Ran Song, Yuenan Zhao, Xueqin Huang, Yibin Li and Wei Zhang. Circular Accessible Depth: A Robust Traversability Representation for UGV Navigation. (Submitted to IEEE Transactions on Robotics, under review)
 
-Please refer to [Research](https://brucexsk.github.io/research) for the details of this paper.
+Please refer to [Research](https://brucexsk.github.io/research) for more on this paper.
 
 # Projects Experience
 
