@@ -5,8 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
----
-
 ## Reinforcement learning-based navigation for indoor service robots (2022.1-present)
 
 <img src="/images/project_ugv.png" height="200x">
@@ -16,8 +14,6 @@ author_profile: true
 - The runtime code is written in C++ and deployed on Nvidia TX2 with ROS.
 - Some security protection strategies and traditional path planning algorithms are combined to solve some corner cases that reinforcement learning cannot handle.
 
----
-
 ## Navigation of agricultural inspection/delivery robots  (2021.6-2022.9)
 
 <img src="/images/project_agriculture.png" height="200x">
@@ -26,8 +22,6 @@ author_profile: true
 - The UGV need to travel between the warehouse and the field. We built a point cloud map for indoor localization, which uses [fast_lio_localization](https://github.com/BruceXSK/fast_lio_localization), an open-source project that I maintained.
 - However, due to the influence of tree growth on point cloud maps, we turn to fusing the odometry, IMU and GPS by Kalman filter for localization in the trees.
 - The navigation framework was deployed on Nvidia TX2 with ROS.
-
----
 
 ## Object detection-based people counting with edge computing (2020.9-2021.5)
 
