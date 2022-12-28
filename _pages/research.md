@@ -13,4 +13,6 @@ Most existing work on autonomous navigation focuses on urban self-driving, where
 
 Thus, we propose the Circular Accessible Depth (CAD), a robust traversability representation for an unmanned ground vehicle (UGV) to learn traversability in various scenarios containing irregular obstacles. To predict CAD, we propose a neural network, namely CADNet, with an attention-based multi-frame point cloud fusion module, Stability-Attention Module (SAM), to encode the spatial features from point clouds captured by LiDAR.
 
+Some typical operating scenarios of UGV and the visualization of CAD are shown below.
+
 ![Typical scenes](/images/research_typical_scene.png)
