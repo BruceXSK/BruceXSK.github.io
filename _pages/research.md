@@ -9,7 +9,8 @@ author_profile: true
 
 Authors: **Shikuan Xie**, Ran Song, Yuenan Zhao, Xueqin Huang, Yibin Li and Wei Zhang.
 
-*This paper has been submitted to IEEE Transactions on Robotics and is under review now. Pre-printed version available at [arXiv](https://arxiv.org/abs/2212.13676).*
+*This paper has been submitted to IEEE Transactions on Robotics and is under review now. <br/>
+Pre-printed version available at [arXiv](https://arxiv.org/abs/2212.13676).*
 
 ## Background
 
