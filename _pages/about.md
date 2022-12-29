@@ -15,11 +15,11 @@ I'm currently working on robot perception (especially based on LiDAR) and naviga
 # Education
 
 - 2020.09-Present Shandong University  
-  M.Sc in Control Science and Engineering  
+  M.Eng. in Control Science and Engineering  
   Average Mark: 90.7/100
 
 - 2016.09-2020.06 Shandong University  
-  B.E. in Automation  
+  B.Eng. in Automation  
   Average Mark: 85.18/100
 
 # Publications
